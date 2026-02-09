@@ -11,7 +11,7 @@ GameObject:
   - component: {fileID: 8377216619772770438}
   - component: {fileID: 3544863242120341332}
   m_Layer: 1
-  m_Name: VFX_TempTrail_PFX
+  m_Name: Sprint1_VFX_TempTrail_PFX 1
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
